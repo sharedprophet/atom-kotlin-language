@@ -600,7 +600,7 @@
           name: "keyword.operator.kotlin"
         }
         {
-          match: "(==|!=|===|!==|<=|>=|<|>)"
+          match: "(===|==|!==|!=|<=|>=|<|>)"
           name: "keyword.operator.comparison.kotlin"
         }
         {
